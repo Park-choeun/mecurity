@@ -14,6 +14,7 @@
 .cxx
 local.properties
 
+#api key
 app/src/main/res/values/strings.xml
 
 /build### Java template
