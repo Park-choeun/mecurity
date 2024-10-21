@@ -1,0 +1,2 @@
+rootProject.name = "hanium_cctv"
+include ':app'
