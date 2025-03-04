@@ -28,7 +28,7 @@
   * 112 전화 연결
   * 경찰서 지도</br>: 현재위치 표시 및 별도의 버튼으로 현재위치로 돌아가기 기능</br>: 현재위치 반경 5km내의 경찰서만을 검색·표시
     
-+ 서비스 메뉴얼: https://www.youtube.com/watch?v=BmKQjNWvDNA&t=17s
++ 시연 영상: https://www.youtube.com/watch?v=BmKQjNWvDNA&t=17s
 
 
 ## ⚙ 개발 환경
