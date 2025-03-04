@@ -46,5 +46,4 @@
 ## 📷 활동 사진
 
 
-<img src="https://drive.google.com/uc?export=view&id=1U_WWbDqLTbiWxv7HS6V_nsdSYEmkidqC" alt="ME:Curity" width="200px" /> 
-<img src="https://drive.google.com/uc?export=view&id=1KiE5uYgj6nhprHOFGrDXDw5mywsiC-7C" alt="ME:Curity" width="200px" />
+<img src="https://drive.google.com/uc?export=view&id=1U_WWbDqLTbiWxv7HS6V_nsdSYEmkidqC" alt="photo" width="230px" />
